@@ -1,0 +1,10 @@
+[project]
+name = "bluesky-stats"
+version = "0.1.0"
+description = "Generate a count of the number of Bluesky posts per year"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "atproto>=0.0.60",
+    "python-dotenv>=1.1.0",
+]
