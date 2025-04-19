@@ -27,13 +27,13 @@ Optionally change the value of `POSTS_FILTER` in `.env`.
 Run the script:
 
 ```shell
-uv run main.py
+uv run get_annual_stats.py
 ```
 
 Or, if you're in a virtualenv:
 
 ```shell
-./main.py
+./get_annual_stats.py
 ```
 
 It should display something like:
